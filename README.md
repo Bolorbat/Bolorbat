@@ -1,4 +1,4 @@
-##👋 Hi, I’m @Bolorbat
+### Hi, I’m @Bolorbat 👋
 - 👀 I’m interested in Game development 
 - 🌱 I’m currently learning C++, C#
 - 📫 How to reach me ...
